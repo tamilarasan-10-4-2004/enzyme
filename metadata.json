@@ -1,0 +1,7 @@
+{
+  "name": "EnzymeScan: Bio-Degradation Assistant",
+  "description": "An intelligent system that identifies plastic types from images and recommends AI-optimized enzymes for effective biodegradation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
